@@ -1,0 +1,44 @@
+header {
+  font-family: Arial;
+  font-style: normal;
+  letter-spacing: 0px;
+  font-stretch: 50%;
+  font-size: larger;
+  background-color: rgb(205, 205, 205);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+header button {
+  letter-spacing: 0px;
+  font-stretch: 50%;
+  font-size: large;
+}
+header input {
+  letter-spacing: 0px;
+  font-stretch: 50%;
+  font-size: large;
+}
+
+#welcome {
+  font-family: Arial;
+  font-weight: bolder;
+  font-size: xx-large;
+  text-shadow: -4px 11px 14px rgba(0, 0, 0, 0.25);
+}
+
+#last {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 0px;
+  font-stretch: 50%;
+  font-size: larger;
+}
+
+#feat {
+  font-family: Arial;
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 0px;
+  font-stretch: 50%;
+  font-size: larger;
+}/*# sourceMappingURL=style.css.map */
